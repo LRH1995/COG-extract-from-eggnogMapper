@@ -1,0 +1,1 @@
+# COG-extract-from-eggnogMapper
